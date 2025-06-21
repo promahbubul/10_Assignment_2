@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import app from './app';
 import config from './app/config';
-import colors, { bgGreen } from 'colors';
+import colors from 'colors';
 
 async function main() {
   try {
